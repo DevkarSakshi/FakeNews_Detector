@@ -58,6 +58,7 @@ The dataset is split into **2 files** due to GitHub file size limits (<25MB each
 - Include **feedback/report feature** for users  
 
 ---
+<img width="1919" height="950" alt="Image" src="https://github.com/user-attachments/assets/3407953f-ece1-4221-919c-cd56f11efcba" />
 
 ## Author
 **Sakshi Devkar**  
